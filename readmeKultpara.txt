@@ -1,0 +1,1 @@
+изменить "choose option..." на "" , надпись идет от плагина woocomerce-radio-buttons/woocommerce/single-product/add-to-cart/variable.php строка 29
